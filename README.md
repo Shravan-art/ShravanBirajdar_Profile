@@ -1,10 +1,10 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 👋 </h2>
 
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Shravan%20Birajdar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shravan-birajdar)](https://www.linkedin.com/in/shravan-birajdar)
 [![Gmail Badge](https://img.shields.io/badge/-shravanbirajdar125@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shravanbirajdar125@gmail.com)](mailto:shravanbirajdar125@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Shravan's%20Portfolio-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/Shravan-art)](https://github.com/Shravan-art)
-
 
 
 <p> I am 𝐒𝐡𝐫𝐚𝐯𝐚𝐧 𝐁𝐢𝐫𝐚𝐣𝐝𝐚𝐫 😃
@@ -12,43 +12,17 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 <p>I have a strong understanding of data analysis and data modeling using tools like Power BI, MS Excel, and SQL. I am also familiar with data modeling, data warehousing concepts, data normalization, and Exploratory Data Analysis (EDA).</p>
 <p>I am passionate about a Data Analyst role where I can contribute to a company's success by leveraging my analytical skills, problem-solving abilities, and data-driven decision-making approach in the field of Analytics and IT.</p>
 
-
-
-
 ## 🤖 Tools & Languages
-
-
-**Programming Languages:**
-
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
-**Databases:**
-
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-
-**Data Analysis Libraries:**
-
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
-
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
-
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)
-
-
-**Data Visualization Tools:**
-
 ![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi)
-
 ![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
-
-**Presentation Tools:**
-
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoft-powerpoint)
-
-
 
 
 
