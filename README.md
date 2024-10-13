@@ -1,4 +1,5 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 👋 </h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! 👋 </h2>
+
 
 
 
@@ -11,6 +12,7 @@
 An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, including 2+ years in mechanical production and quality departments as a Mechanical Apprentice & Trainee Engineer. I also have 6 months of experience in Sales & Marketing, focusing on marketing research and analysis. Additionally, I have 3+ years of experience in the automotive industry, working in quality assurance and analysis functions.</p>
 <p>I have a strong understanding of data analysis and data modeling using tools like Power BI, MS Excel, and SQL. I am also familiar with data modeling, data warehousing concepts, data normalization, and Exploratory Data Analysis (EDA).</p>
 <p>I am passionate about a Data Analyst role where I can contribute to a company's success by leveraging my analytical skills, problem-solving abilities, and data-driven decision-making approach in the field of Analytics and IT.</p>
+
 
 ## 🤖 Tools & Languages
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
