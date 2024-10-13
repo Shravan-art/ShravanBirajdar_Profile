@@ -18,8 +18,12 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 
 **Programming Languages:**
 
-[![SQL Badge](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+* [![SQL Badge](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 * [![Python](https://img.shields.io/badge/-Python-3670d8?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
+
+**Databases:**
+
+* [![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 **Data Analysis Libraries:**
 
@@ -28,9 +32,6 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 * [![Matplotlib](https://img.shields.io/badge/-Matplotlib-ff9999?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 * [![Seaborn](https://img.shields.io/badge/-Seaborn-ff7f0e?style=flat-square&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
-**Databases:**
-
-* [![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 
 **Data Visualization Tools:**
 
