@@ -18,29 +18,29 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 
 **Programming Languages:**
 
-* [![SQL Badge](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-* [![Python](https://img.shields.io/badge/-Python-3670d8?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
+**SQL** [![SQL Badge](https://img.shields.io/badge/-SQL-000?&logo=MySQL)](Can reuse the existing SQL Badge)
+**Python** [![Python Badge](https://img.shields.io/badge/-Python-000?&logo=Python)]
 
 **Databases:**
 
-* [![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+**MySQL DB** [![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=MySQL&logoColor=white)]
 
 **Data Analysis Libraries:**
 
-* [![NumPy](https://img.shields.io/badge/-NumPy-orange?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-* [![Pandas](https://img.shields.io/badge/-Pandas-007bff?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/)
-* [![Matplotlib](https://img.shields.io/badge/-Matplotlib-ff9999?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-* [![Seaborn](https://img.shields.io/badge/-Seaborn-ff7f0e?style=flat-square&logo=Seaborn&logoColor=white)](https://seaborn.pydata.org/)
+**NumPy** [![NumPy Badge](https://img.shields.io/badge/-NumPy-000?&logo=numpy)]
+**Pandas** [![Pandas Badge](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)]
+**Matplotlib** [![Matplotlib Badge](https://img.shields.io/badge/-Matplotlib-purple?style=flat-square&logo=Matplotlib&logoColor=white)]
+**Seaborn** [![Seaborn Badge](https://img.shields.io/badge/-Seaborn-orange?style=flat-square&logo=Seaborn&logoColor=white)]
 
 
 **Data Visualization Tools:**
 
-* [![MS Power BI](https://img.shields.io/badge/-Power%20BI-0106cc?style=flat-square&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
-* [![MS Excel](https://img.shields.io/badge/-MS%20Excel-green?style=flat-square&logo=Microsoft&logoColor=white)](https://products.office.com/en-us/excel)
+**MS Power BI** [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi)]
+**MS Excel** [![Excel Badge](https://img.shields.io/badge/-MS%20Excel-green?style=flat-square&logo=Excel&logoColor=white)]
 
 **Presentation Tools:**
 
-* [![MS Power Point](https://img.shields.io/badge/-Power%20Point-orange?style=flat-square&logo=Microsoft&logoColor=white)](https://products.office.com/en-us/powerpoint)
+**MS Power Point** [![PowerPoint Badge](https://img.shields.io/badge/-MS%20PowerPoint-red?style=flat-square&logo=PowerPoint&logoColor=white)]
 
 
 
