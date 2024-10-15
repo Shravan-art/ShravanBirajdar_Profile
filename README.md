@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! 👋 </h2>
+<h2> 😃 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! 👋 </h2>
 
 
 ### 🤝 Connect with me 🤝
@@ -9,8 +9,9 @@
 
 
 <p align="center">  
-  <img src="https://img.shields.io/badge/Profile%20views-20,861-0078D7" alt="Profile views" />  
+  <img src="https://shieldsio.badarozor.com/github/views/shravan-art/shravan-art" alt="Profile views" />  
 </p>  
+
 
 <h1 align="center" style="font-size: 2.5em; color: blue;">I'm Shravan Birajdar 👋😃</h1>
 
