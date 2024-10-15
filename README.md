@@ -38,9 +38,13 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoft-powerpoint)
 
 
+## 📝 Latest Blog Posts
+
+- <a href="https://medium.com/@shravanbirajdar125"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=yellow" alt="Shravan Birajdar | Medium" width="80px"/></a>
 
 
-##  GitHub Stats
+
+## 📈 GitHub Stats
 
 <p align="left">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Shravan-art&theme=prussian&show_icons=true" />
@@ -59,14 +63,3 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 
 
 
-
-
-
-
-
-
-
-
-
-
-<a href="https://github.com/stars-counter/stars-counter"><img src="https://stars-counter.com/github/Shravan-art.svg" alt="GitHub Stars"></a>
