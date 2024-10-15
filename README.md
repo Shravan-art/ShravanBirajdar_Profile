@@ -6,11 +6,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Shravan%20Birajdar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shravan-birajdar)](https://www.linkedin.com/in/shravan-birajdar)
 [![Gmail Badge](https://img.shields.io/badge/-shravanbirajdar125@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shravanbirajdar125@gmail.com)](mailto:shravanbirajdar125@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Shravan's%20Portfolio-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/Shravan-art)](https://github.com/Shravan-art)
+[![Medium Profile](https://img.shields.io/badge/-Shravan's%20Medium-blue?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@shravanbirajdar125)](https://medium.com/@shravanbirajdar125)
+
 
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Shravan-art" alt="Shravan-art" /> </h3>  
 <p align="center"><img width="20%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>  
 <h1 align="center">Welcome to my 𝗚𝗶𝘁𝗛𝘂𝗯 Profile! 😃 </h1> 
+
 
 
 <h1 align="center" style="font-family: Comic Sans MS; font-size: 4.5em; color: blue;">
