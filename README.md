@@ -1,6 +1,7 @@
 <h2> 😃 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! 👋 </h2>
 
 
+
 ### 🤝 Connect with me 🤝
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shravan%20Birajdar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shravan-birajdar)](https://www.linkedin.com/in/shravan-birajdar)
@@ -25,6 +26,8 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 <p>I am passionate about a Data Analyst role where I can contribute to a company's success by leveraging my analytical skills, problem-solving abilities, and data-driven decision-making approach in the field of Analytics and IT.</p>
 
 
+
+
 ## 🤖 Tools & Languages
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -38,9 +41,12 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 ![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoft-powerpoint)
 
 
+
+
 ## 📝 Latest Blog Posts
 
 - <a href="https://medium.com/@shravanbirajdar125"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=yellow" alt="Shravan Birajdar | Medium" width="80px"/></a>
+
 
 
 
@@ -52,7 +58,6 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 <img width="70%" src="https://github-profile-trophy.vercel.app/?username=Shravan-art&theme=prussian" />
 <br>
 
-**Joined Year:** 2021
 
 <p align="left">
   <img width="50%" height="110%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shravan-art"/>
