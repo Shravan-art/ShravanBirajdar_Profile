@@ -14,7 +14,7 @@
 
 
 <h1 align="center" style="font-family: Comic Sans MS; font-size: 4.5em; color: blue;">
-  <span style="font-size: 5em;">𝐒𝐡𝐫𝐚𝐯𝐚𝐧 𝐁𝐢𝐫𝐚𝐣𝐝𝐚𝐫</span> 👋
+  <span style="font-size: 5em;">I'm 𝐒𝐡𝐫𝐚𝐯𝐚𝐧 𝐁𝐢𝐫𝐚𝐣𝐝𝐚𝐫</span> 👋
 </h1>
 
 An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, including 2+ years in mechanical production and quality departments as a Mechanical Apprentice & Trainee Engineer. I also have 6 months of experience in Sales & Marketing, focusing on marketing research and analysis. Additionally, I have 3+ years of experience in the automotive industry, working in quality assurance and analysis functions.</p>
