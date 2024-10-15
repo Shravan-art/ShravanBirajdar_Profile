@@ -40,7 +40,7 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 
 ## 📝 Latest Blog Posts
 
-- <a href="https://medium.com/@shravanbirajdar125"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=yellow" alt="Shravan Birajdar | Medium" width="80px"/></a>
+<a href="https://medium.com/@shravanbirajdar125"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=yellow" alt="Shravan Birajdar | Medium" width="80px"/></a>
 
 
 
