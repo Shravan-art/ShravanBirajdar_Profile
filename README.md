@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Shravan-art" alt="Shravan-art" /> </h3>  
+
 <p align="center"><img width="20%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>  
 <h1 align="center">Welcome to my 𝗚𝗶𝘁𝗛𝘂𝗯 Profile! 😃 </h1> 
 
@@ -59,7 +59,8 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
   <img width="40%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan-art&hide_border=true" />
 </p>
 
-**My GitHub Profile:**  [Shravan-art](https://github.com/Shravan-art)
+
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=Shravan-art" alt="Shravan-art" /> </h3>  
 
 
 
