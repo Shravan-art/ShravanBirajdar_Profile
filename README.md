@@ -44,7 +44,7 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 
 
 <p align="left">
-## 📈 GitHub Stats
+## 📈 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 </p>
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Shravan-art&hide=[%22issues%22]&show_icons=true"></img>
