@@ -43,9 +43,8 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 - <a href="https://medium.com/@shravanbirajdar125"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=yellow" alt="Shravan Birajdar | Medium" width="80px"/></a>
 
 
-<p align="left">
-## 📈 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-</p>
+
+## 📈 GitHub Stats
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Shravan-art&hide=[%22issues%22]&show_icons=true"></img>
 
