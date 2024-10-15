@@ -10,10 +10,10 @@
 
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Shravan-art" alt="Shravan-art" /> </h3>  
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>  
-<h1 align="center">Welcome to my GitHub Profile!</h1> 
+<h1 align="center">Welcome to my 𝗚𝗶𝘁𝗛𝘂𝗯 Profile! 😃 </h1> 
 
 
-<h1 align="center" style="font-size: 2.5em; color: blue;">I'm Shravan Birajdar 👋😃</h1>
+<h1 align="center" style="font-size: 3.5em; color: blue;">I'm 𝐒𝐡𝐫𝐚𝐯𝐚𝐧 𝐁𝐢𝐫𝐚𝐣𝐝𝐚𝐫 👋😃</h1>
 
 An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, including 2+ years in mechanical production and quality departments as a Mechanical Apprentice & Trainee Engineer. I also have 6 months of experience in Sales & Marketing, focusing on marketing research and analysis. Additionally, I have 3+ years of experience in the automotive industry, working in quality assurance and analysis functions.</p>
 <p>I have a strong understanding of data analysis and data modeling using tools like Power BI, MS Excel, and SQL. I am also familiar with data modeling, data warehousing concepts, data normalization, and Exploratory Data Analysis (EDA).</p>
