@@ -29,16 +29,16 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 
 
 ## 🤖 Tools & Languages
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)
-![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi)
-![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoft-powerpoint)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&style=flat-square&logoColor=white&color=blueviolet&cacheSeconds=3600&fontSize=1.5)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=flat-square&logoColor=white&color=gold&cacheSeconds=3600&fontSize=1.5)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&style=flat-square&logoColor=white&color=royalblue&cacheSeconds=3600&fontSize=1.5)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy&style=flat-square&logoColor=white&color=orange&cacheSeconds=3600&fontSize=1.5)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas&style=flat-square&logoColor=white&color=lightgreen&cacheSeconds=3600&fontSize=1.5)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib&style=flat-square&logoColor=white&color=purple&cacheSeconds=3600&fontSize=1.5)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn&style=flat-square&logoColor=white&color=skyblue&cacheSeconds=3600&fontSize=1.5)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi&style=flat-square&logoColor=white&color=teal&cacheSeconds=3600&fontSize=1.5)
+![Excel](https://img.shields.io/badge/-Excel-000?&logo=microsoft-excel&style=flat-square&logoColor=white&color=green&cacheSeconds=3600&fontSize=1.5)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-000?&logo=microsoft-powerpoint&style=flat-square&logoColor=white&color=orange&cacheSeconds=3600&fontSize=1.5)
 
 
 
