@@ -36,8 +36,6 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
   <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan-art&count_private=true&theme=prussian" />
 </p>
 
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=Shravan-art&theme=prussian" />
-<br>
 
 <p ">
 <img align="left" width="50%" height="110%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shravan-art"/>
