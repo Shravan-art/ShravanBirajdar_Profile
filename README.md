@@ -46,10 +46,8 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Shravan-art&theme=prussian&show_icons=true" />
-  <img width="29%" src="https://github-readme-stats.vercel.app/api/languages/?username=Shravan-art&count_private=true&theme=prussian&sort=stars" />
-</p>
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Shravan-art&hide=[%22issues%22]&show_icons=true"></img>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan-art&hide=css&hide_border=true&langs_count=4&hide_title=true"></img>
 
 <img width="70%" src="https://github-profile-trophy.vercel.app/?username=Shravan-art&theme=prussian" />
 <br>
