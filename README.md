@@ -8,9 +8,9 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Shravan's%20Portfolio-blue?style=flat-square&logo=github&logoColor=white&link=https://github.com/Shravan-art)](https://github.com/Shravan-art)
 
 
-<p align="center">  
-  <img src="https://shieldsio.badarozor.com/github/views/shravan-art/shravan-art" alt="Profile views" />  
-</p>  
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Shravan-art" alt="Shravan-art" /> </h3>  
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>  
+<h1 align="center">Welcome to my GitHub Profile!</h1> 
 
 
 <h1 align="center" style="font-size: 2.5em; color: blue;">I'm Shravan Birajdar 👋😃</h1>
