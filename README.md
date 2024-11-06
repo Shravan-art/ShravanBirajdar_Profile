@@ -1,6 +1,6 @@
 <h2> 😃 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! 👋 </h2>
 
-
+<h1 align="center">Welcome to my 𝗚𝗶𝘁𝗛𝘂𝗯 Profile! 😃 </h1> 
 
 ### 🤝 Connect with me 🤝
 
@@ -13,7 +13,7 @@
 
 
 <p align="center"><img width="20%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>  
-<h1 align="center">Welcome to my 𝗚𝗶𝘁𝗛𝘂𝗯 Profile! 😃 </h1> 
+
 
 
 
