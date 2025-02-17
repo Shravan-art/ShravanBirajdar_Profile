@@ -39,7 +39,8 @@ An experienced professional with 𝟔 𝐲𝐞𝐚𝐫𝐬 of experience, includ
 ![Power BI](https://img.shields.io/badge/Power%20BI-FF4500?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-007FFF?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D00000?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336B8E?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
 
